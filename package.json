@@ -10,5 +10,7 @@
   "dependencies": {
     "vite": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@remix-run/dev": "^2.0.0"
+  }
 }
